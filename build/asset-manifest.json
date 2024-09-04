@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-rtk-ss/static/css/main.42db0dcd.css",
+    "main.js": "/react-rtk-ss/static/js/main.d9d38e21.js",
+    "index.html": "/react-rtk-ss/index.html",
+    "main.42db0dcd.css.map": "/react-rtk-ss/static/css/main.42db0dcd.css.map",
+    "main.d9d38e21.js.map": "/react-rtk-ss/static/js/main.d9d38e21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42db0dcd.css",
+    "static/js/main.d9d38e21.js"
+  ]
+}
